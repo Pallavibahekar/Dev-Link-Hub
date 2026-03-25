@@ -1,5 +1,4 @@
-# Dev-Link-Hub
-A full-stack web application for developers to manage and share useful links/resources.
+
 # 🔗 Dev Link Hub
 
 A full-stack bookmark manager built for developers. Save, tag, search, and organize your favourite dev resources in one place.
